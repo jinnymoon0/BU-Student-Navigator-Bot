@@ -70,8 +70,7 @@ No backend or database required — fully built and hosted via OpenAI’s GPT Bu
 
 🖼️ Demo
 You can try the bot here:
-👉 [BU Student Navigator Bot
-(Replace with your actual link.)](https://chatgpt.com/g/g-691ea662594c819180c01e24444d40fe-bu-student-navigator-bot)
+👉 [BU Student Navigator Bot](https://chatgpt.com/g/g-691ea662594c819180c01e24444d40fe-bu-student-navigator-bot)
 
 🗂️ Example Questions You Can Ask
 “How do I register for classes without getting waitlisted?”
